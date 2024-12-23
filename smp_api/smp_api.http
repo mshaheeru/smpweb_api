@@ -1,0 +1,6 @@
+@smp_api_HostAddress = http://localhost:5024
+
+GET {{smp_api_HostAddress}}/api/stocks
+Accept: application/json
+
+###
